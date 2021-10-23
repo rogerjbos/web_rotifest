@@ -6,6 +6,6 @@ title: Doubles
 type: post
 ---
 
-[Doubles](doubles) is made with two [Baras](baras) topped with curried [Channa](channa) and served with toppings like pepper, tamarind sweet sauce, and cucumber relish.
+**Doubles** is made with two **Baras** topped with curried **Channa** and served with toppings like pepper, tamarind sweet sauce, and cucumber relish.
 
-[Channa](channa) is chickpeas, usually curried and served as a side dish or in [Doubles](doubles).
+**Channa** is chickpeas, usually curried and served as a side dish or in **Doubles**.

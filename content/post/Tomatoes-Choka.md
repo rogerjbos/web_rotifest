@@ -6,4 +6,4 @@ title: Tomatoes Choka
 type: post
 ---
 
-[Bake](bake) is a fried dough of unleavened bread, usualy served with [Tomatoes choka](tomatochoka).
+**Bake** is a fried dough of unleavened bread, usualy served with **Tomatoes choka**.
