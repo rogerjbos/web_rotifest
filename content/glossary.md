@@ -1,12 +1,15 @@
 ---
-title: "Glossary"
+title: "Glossary of Trini Foods"
 ---
+
 
 [Doubles](doubles) is made with two [Baras](baras) topped with curried [Channa](channa) and served with toppings like pepper, tamarind sweet sauce, and cucumber relish.
 
 [Channa](channa) is chickpeas, usually curried and served as a side dish or in [Doubles](doubles).
 
-#### Trinidian Breads (Roti)
+---
+
+## Trinidian Breads (Roti)
 
 [Sada roti](sada) 
 
@@ -27,7 +30,9 @@ base of [Doubles](doubles).
 
 [Dal bhat](dalbhat) is ???.
 
-#### Choka (dishes that are roasted and mashed)
+---
+
+## Choka (dishes that are roasted and mashed)
 
 [Tomato choka](tomatochoka) is roasted and mashed tomatoes, usually served with [Bake](bake).
 
@@ -35,7 +40,9 @@ base of [Doubles](doubles).
 
 [Aloo choka](aloochoka) is boiled, roasted, and mashed potatoes.
 
-#### Dishes that can be fried or curried
+---
+
+## Dishes that can be fried or curried
 
 [Bodi](bodi) is long beans.
 
@@ -94,13 +101,17 @@ base of [Doubles](doubles).
 
 [geera](geera) is cumin.
 
-#### Wild meats
+---
+
+## Wild meats
 
 [manicou](manicou) is opossum. 
 
 [tatou](tatou) is armadillo.
 
-#### Fruits
+---
+
+## Fruits
 
 [Five fingers]() is carambola.
 
@@ -111,5 +122,4 @@ base of [Doubles](doubles).
 [Chenette](chenette) is Melicoccus bijugatus.
 
 [Portugal](portugal) is a tangerin.
-
 
