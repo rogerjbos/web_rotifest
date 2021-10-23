@@ -66,6 +66,13 @@ subscription:
   formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
   overlay : true
 
+################ Glossary #######################
+glossary:
+  enable : true
+  title: ""
+  subtitle: ""
+  form_action : "/post/glossary" 
+  
 ################ Contact #######################
 contact:
   enable : true
