@@ -1,7 +1,7 @@
 ################## Hero area ##################
 hero_area:
   enable : true
-  bg_image : "images/photogrid_wider.jpg" #header.jpg"
+  bg_image : "images/photogrid_wider.jpg"
   overlay : true
 
 ################### Gallery ###################
@@ -30,7 +30,6 @@ blog:
   bg_image : "images/blog/tnt_flag_freepik.jpeg"
   overlay : true
 
-
 ################# food Menu ################
 pricing:
   enable : true
@@ -54,7 +53,6 @@ pricing:
     description: "A sweeter version of poluri with powdered sugar sprinkled on top."
     price : "$ 10"
 
-
 ################### Subscription ################
 subscription:
   enable : false
@@ -71,11 +69,11 @@ glossary:
   enable : true
   title: ""
   subtitle: ""
-  form_action : "/post/glossary" 
+  form_action : "https://www.rotifest.com/post/glossary/" 
   
 ################ Contact #######################
 contact:
   enable : true
   title: "Questions / Comments / Orders / <span> Contact Us </span>"
   subtitle: "We will get back to you ASAP (Trini time)."
-  form_action : "#" #contact form works with formspree.io
+  form_action : "#"
