@@ -1,7 +1,7 @@
 ---
 date: "2021-10-22"
 description: placeholder
-image: images/blog/Saheene_done.jpg
+image: images/blog/Saheena_done.jpg
 title: Saheena
 type: post
 ---

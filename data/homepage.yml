@@ -35,8 +35,8 @@ blog:
 pricing:
   enable : true
   title : "Family style prepared meals <span>PRICE</span>"
-  description: " Serves a family of four"
-  subtitle : "FEATURED MEALS"
+  description: "Serves a family of four"
+  subtitle : "Featured Meals"
   pricing_item:
   - title: "Bake & tomatoes"
     description: ""
