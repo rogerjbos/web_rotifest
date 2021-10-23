@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rotifest Authentic Trinidadian Cuisine</title>
+    <link>https://rotifest.com/</link>
+    <description>Recent content on Rotifest Authentic Trinidadian Cuisine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rotifest.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doubles</title>
+      <link>https://rotifest.com/post/doubles/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rotifest.com/post/doubles/</guid>
+      <description>Doubles is made with two Baras topped with curried Channa and served with toppings like pepper, tamarind sweet sauce, and cucumber relish.</description>
+    </item>
+    
+    <item>
+      <title>Saheena</title>
+      <link>https://rotifest.com/post/saheena/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rotifest.com/post/saheena/</guid>
+      <description>Saheena is a Trini specialty consisting of flour, split peas powder, saffron, baking powder, and salt.</description>
+    </item>
+    
+    <item>
+      <title>Saheene</title>
+      <link>https://rotifest.com/post/saheene/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rotifest.com/post/saheene/</guid>
+      <description>Placeholder</description>
+    </item>
+    
+    <item>
+      <title>Tomatoes Choka</title>
+      <link>https://rotifest.com/post/tomatoes-choka/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rotifest.com/post/tomatoes-choka/</guid>
+      <description>Bake is a fried dough of unleavened bread, usualy served with Tomatoes choka.</description>
+    </item>
+    
+    <item>
+      <title>Glossary</title>
+      <link>https://rotifest.com/glossary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rotifest.com/glossary/</guid>
+      <description>Doubles is made with two Baras topped with curried Channa and served with toppings like pepper, tamarind sweet sauce, and cucumber relish.</description>
+    </item>
+    
+  </channel>
+</rss>

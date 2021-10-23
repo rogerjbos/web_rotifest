@@ -1,0 +1,80 @@
+baseURL: https://rotifest.com/
+languageCode: en-us
+title: Rotifest Authentic Trinidadian Cuisine
+theme: restaurant-hugo
+summaryLength: '10'
+paginate: 4
+params:
+  author: Gai Bos
+  copyright: Copyright &copy; 2021 Rotifest.com
+  description: This is meta description
+  footer:
+    blogTitle: LATEST <span>BLOG POSTS</span>
+    contactInfoTitle: 'CONTACT <span>INFO</span> '
+    contactItem:
+      - content: (203) 293-8240
+        icon: fa fa-phone
+        title: Telephone
+      - content: 175 Newtown Tpke Weston CT
+        icon: fa fa-map-marker
+        title: Address
+      - content: rotifest@gmail.com
+        icon: fa fa-envelope
+        title: E mail
+    enable: yes
+    gallery:
+      - image: images/slider/kneaded_flour.jpg
+      - image: images/slider/roti_closeup.jpg
+      - image: images/slider/pepper_roti_stuffing.jpg
+      - image: images/slider/Pepper_roti_stuffing2.jpg
+      - image: images/slider/Pepper_roti.jpg
+      - image: images/slider/mango_chutney.jpg
+    galleryTitle: PHOTO <span>STREAM</span>
+    socialLink:
+      - icon: facebook
+        link: https://facebook.com/rotifest
+      - icon: instagram
+        link: https://instagram/rotifest
+    socialTitle: Follow <span>RotiFest.com</span>
+  google_analitycs_id: UA-121878757-2
+  logo: images/logo.png
+  main_sections: post
+  plugins:
+    css:
+      - URL: css/bootstrap.min.css
+      - URL: css/slick.css
+      - URL: css/font-awesome.min.css
+      - URL: css/animate.min.css
+      - URL: css/venobox.css
+      - URL: css/main.css
+      - URL: css/responsive.css
+    js:
+      - URL: js/jquery.min.js
+      - URL: js/bootstrap.min.js
+      - URL: js/slick.min.js
+      - URL: js/wow.min.js
+      - URL: js/venobox.min.js
+      - URL: js/main.js
+  preloader:
+    enable: no
+    preloader: ''
+menu:
+  main:
+    - URL: hero-area
+      name: Home
+      weight: 1
+    - URL: about-us
+      name: About Us
+      weight: 2
+    - URL: blog
+      name: Blog
+      weight: 3
+    - URL: price
+      name: Price
+      weight: 4
+    - URL: /glossary/
+      name: Glossary
+      weight: 5
+    - URL: contact-us
+      name: Contact Us
+      weight: 6

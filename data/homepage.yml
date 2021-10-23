@@ -1,0 +1,74 @@
+################## Hero area ##################
+hero_area:
+  enable : true
+  bg_image : "images/photogrid_wider.jpg" #header.jpg"
+  overlay : true
+
+################### Gallery ###################
+gallery:
+  enable : true
+  title : "Recent creations"
+  images:
+    - "images/slider/kneaded_flour.jpg"
+    - "images/slider/roti_closeup.jpg"
+    - "images/slider/pepper_roti_stuffing.jpg"
+    - "images/slider/Pepper_roti_stuffing2.jpg"
+    - "images/slider/Pepper_roti.jpg"
+    - "images/slider/mango_chutney.jpg"
+
+################ About #######################
+about:
+  enable : true
+  image : "images/cooker-img.png"
+  title : "Gai Bos of<span> Rotifest </span>"
+  description : "Receipes, cooking classes, prepared meals, & catering."
+  
+################# Blog ######################
+blog:
+  enable : true
+  title : "Rotifest <span>Blog</span>"
+  bg_image : "images/blog/tnt_flag_freepik.jpeg"
+  overlay : true
+
+
+################# food Menu ################
+pricing:
+  enable : true
+  title : "Family style prepared meals <span>PRICE</span>"
+  description: " Serves a family of four"
+  subtitle : "FEATURED MEALS"
+  pricing_item:
+  - title: "Bake & tomatoes"
+    description: ""
+    price : "$ 40"
+
+  - title: "Spicy rice & beans"
+    description: ""
+    price : "$ 20"
+
+  - title: "Curried chicken with channa (chick peas) and roti"
+    description: ""
+    price : "$ 50"
+
+  - title: "Zeppoles for dessert"
+    description: "A sweeter version of poluri with powdered sugar sprinkled on top."
+    price : "$ 10"
+
+
+################### Subscription ################
+subscription:
+  enable : false
+  bg_image : "images/subscribe-bg.jpg"
+  title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
+  description : "We'll keep you informed on new receipes."
+  #Mailchimp subscription configaration 
+  form_action : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
+  formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
+  overlay : true
+
+################ Contact #######################
+contact:
+  enable : true
+  title: "Questions / Comments / Orders / <span> Contact Us </span>"
+  subtitle: "We will get back to you ASAP (Trini time)."
+  form_action : "#" #contact form works with formspree.io
