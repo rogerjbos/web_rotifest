@@ -19,7 +19,7 @@ gallery:
 ################ About #######################
 about:
   enable : true
-  image : "images/cooker-img.png"
+  image : "images/gai.jpeg"
   title : "Gai Bos of<span> Rotifest </span>"
   description : "Receipes, cooking classes, prepared meals, & catering."
   
