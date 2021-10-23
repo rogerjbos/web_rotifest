@@ -72,9 +72,6 @@ menu:
     - URL: price
       name: Price
       weight: 4
-    - URL: glossary
-      name: glossary
-      weight: 5
     - URL: contact-us
       name: Contact Us
-      weight: 6
+      weight: 5

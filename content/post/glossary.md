@@ -7,123 +7,122 @@ type: post
 ---
 
 
-[Doubles](doubles) is made with two [Baras](baras) topped with curried [Channa](channa) and served with toppings like pepper, tamarind sweet sauce, and cucumber relish.
+**Doubles** is made with two **baras** topped with curried **channa** and served with toppings like pepper, tamarind sweet sauce, and cucumber relish.
 
-[Channa](channa) is chickpeas, usually curried and served as a side dish or in [Doubles](doubles).
+**Channa** is chickpeas, usually curried and served as a side dish or in **Doubles**.
 
 ---
 
 ## Trinidian Breads (Roti)
 
-[Sada roti](sada) 
+**Sada roti** 
 
-[Paratha roti](paratha)
+**Paratha roti**
 
-[Baras](baras) flat fried dough.  Two baras form the 
-base of [Doubles](doubles).
+**Baras** flat fried dough.  Two baras form the base of **Doubles**.
 
-[Dhalpuri](dalpuri) roti stuffed with seasoned, crushed split peas.
+**Dhalpuri** roti stuffed with seasoned, crushed split peas.
 
-[Dosti roti](dosti)
+**Dosti roti**
 
-[Aloo paratha](alooparatha)
+**Aloo paratha**
 
-[Bake](bake) is a fried dough of unleavened bread, usualy served with [Tomatoes choka](tomatochoka).
+**Bake** is a fried dough of unleavened bread, usualy served with **Tomatoes choka**.
 
-[Dhal](dhal) is crushed split peas. 
+**Dhal** is crushed split peas. 
 
-[Dal bhat](dalbhat) is ???.
+**Dal bhat** is ???.
 
 ---
 
 ## Choka (dishes that are roasted and mashed)
 
-[Tomato choka](tomatochoka) is roasted and mashed tomatoes, usually served with [Bake](bake).
+**Tomato choka** is roasted and mashed tomatoes, usually served with **Bake**.
 
-[Baigan choka](baiganchoka) is roasted and mashed eggplant.
+**Baigan choka** is roasted and mashed eggplant.
 
-[Aloo choka](aloochoka) is boiled, roasted, and mashed potatoes.
+**Aloo choka** is boiled, roasted, and mashed potatoes.
 
 ---
 
 ## Dishes that can be fried or curried
 
-[Bodi](bodi) is long beans.
+**Bodi** is long beans.
 
-[Aloo](aloo) is potatoes.
+**Aloo** is potatoes.
 
-[Bhindhi](bhindhi) is ochro. 
+**Bhindhi** is ochro. 
 
-[seim](seim) (hyacinth beans.
+**seim** is hyacinth beans.
 
-[Karaili](karaili) is bittermelon. 
+**Karaili** is bittermelon. 
 
-[Kohra tarkari](kohratarkari) is pumpkin simmered with spices and seasoning.
+**Kohra tarkari** is pumpkin simmered with spices and seasoning.
 
-[lauki](lauki) is calabash. 
+**lauki** is calabash. 
 
-[Saijan](saijan) is drumstick.
+**Saijan** is drumstick.
 
-[Bhagi](bhagi) is made with young taro, spinach or spiny amaranth leaves.
+**Bhagi** is made with young taro, spinach or spiny amaranth leaves.
 
-[Tannia cakes](tanniacakes) is fried dasheen cake.
+**Tannia cakes** is fried dasheen cake.
 
-[Chadon beni](chadonbeni) is cilantro.
+**Chadon beni** is cilantro.
 
-[Aloo pie](aloo pie) is 
+**Aloo pie** is 
 
-[Saheena](saheena) is 
+**Saheena** is 
 
-[Baiganee](baiganee) is 
+**Baiganee** is 
 
-[Kachori](kachori) is 
+**Kachori** is 
 
-[Pholourie](pholourie) is 
+**Pholourie** is 
 
-[Pelau](pelau) is any rice-based dish.
+**Pelau** is any rice-based dish.
 
-[Achar](Achar) is pickles.
+**Achar** is pickles.
 
-[Kareli](kareli) is (Chinese) bitter melon.
+**Kareli** is (Chinese) bitter melon.
 
-[Kuchela](kuchela) is  a grated spicy pickle, usually made from mango but sometimes made from pommecythère.
+**Kuchela** is  a grated spicy pickle, usually made from mango but sometimes made from pommecythère.
 
-[Macaroni pie](macaronipie) is a macaroni pasta bake, with eggs and cheese, and a variety of other potential ingredients that can change according to the recipe being used.
+**Macaroni pie** is a macaroni pasta bake, with eggs and cheese, and a variety of other potential ingredients that can change according to the recipe being used.
 
-[???] a special type of West Indian spaghetti dish is made in the towns of Chaguanas, Couva and some parts of San Fernando. It is made by using durum semolina, scorpion peppers, pasta sauce and a hint of garlic sauce. Everything is sauteed in a sauce pan until all the fluid dries. It is then served with salt dashed on top with some rosemary and parsley.
+**???] a special type of West Indian spaghetti dish is made in the towns of Chaguanas, Couva and some parts of San Fernando. It is made by using durum semolina, scorpion peppers, pasta sauce and a hint of garlic sauce. Everything is sauteed in a sauce pan until all the fluid dries. It is then served with salt dashed on top with some rosemary and parsley.
 
 
-[Pepper sauces](pepper) is  are made by using scotch bonnet or other hot peppers, either minced or chopped and other spices. It can sometimes include lime or lemon as well as other vegetables, and come in many variations and flavours. 
+**Pepper sauces** is  are made by using scotch bonnet or other hot peppers, either minced or chopped and other spices. It can sometimes include lime or lemon as well as other vegetables, and come in many variations and flavours. 
 
-[Chutneys](chutney) is  are popular as well and often include mango, tamarind, cucumber, pommecythère, bandhaniya, dhaniya, tomato, and coconut. They are most commonly eaten with doubles, aloo pie, saheena, baiganee, kachori, and pholourie. There are a variety of popular pickles known locally as Achar which are commonly used. . Other version of Achars are made from mango, pommecythère, tamarind, amla, lemon, lime, and chulta.
+**Chutneys** is  are popular as well and often include mango, tamarind, cucumber, pommecythère, bandhaniya, dhaniya, tomato, and coconut. They are most commonly eaten with doubles, aloo pie, saheena, baiganee, kachori, and pholourie. There are a variety of popular pickles known locally as Achar which are commonly used. . Other version of Achars are made from mango, pommecythère, tamarind, amla, lemon, lime, and chulta.
 
-[Baiganie](baiganie) is 
+**Baiganie** is 
 
-[Kachori](kachori) is  
+**Kachori** is  
 
-[Samosas](samosas) is 
+**Samosas** is 
 
-[geera](geera) is cumin.
+**geera** is cumin.
 
 ---
 
 ## Wild meats
 
-[manicou](manicou) is opossum. 
+**manicou** is opossum. 
 
-[tatou](tatou) is armadillo.
+**tatou** is armadillo.
 
 ---
 
 ## Fruits
 
-[Five fingers]() is carambola.
+**Five fingers** is carambola.
 
-[Zaboca](zaboca) is avocado.
+**Zaboca** is avocado.
 
-[Popoy](popoy) is papaya.
+**Popoy** is papaya.
 
-[Chenette](chenette) is Melicoccus bijugatus.
+**Chenette** is Melicoccus bijugatus.
 
-[Portugal](portugal) is a tangerin.
+**Portugal** is a tangerin.
 
