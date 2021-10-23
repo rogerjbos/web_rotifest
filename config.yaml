@@ -10,7 +10,7 @@ params:
   description: This is meta description
   footer:
     blogTitle: LATEST <span>BLOG POSTS</span>
-    contactInfoTitle: 'CONTACT <span>INFO</span> '
+    contactInfoTitle: 'CONTACT <span>INFO</span>'
     contactItem:
       - content: (203) 293-8240
         icon: fa fa-phone
@@ -72,7 +72,7 @@ menu:
     - URL: price
       name: Price
       weight: 4
-    - URL: https://www.rotifesst.com/glossary
+    - link: https://www.rotifesst.com/glossary
       name: Glossary
       weight: 5
     - URL: contact-us

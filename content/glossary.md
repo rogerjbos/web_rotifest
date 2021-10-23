@@ -1,5 +1,9 @@
 ---
+date: "2021-10-22"
+description: "Glossary of Trini Foods"
+image: images/tnt_flag_freepik.jpeg
 title: "Glossary of Trini Foods"
+type: post
 ---
 
 
