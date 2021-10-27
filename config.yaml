@@ -2,7 +2,7 @@ baseURL: https://rotifest.com/
 languageCode: en-us
 title: Rotifest Authentic Trinidadian Cuisine
 theme: restaurant-hugo
-summaryLength: '10'
+summaryLength: '20'
 paginate: 4
 params:
   author: Gai Bos
