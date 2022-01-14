@@ -70,7 +70,7 @@ menu:
       name: Blog
       weight: 3
     - URL: price
-      name: Price
+      name: Meals
       weight: 4
     - URL: contact-us
       name: Contact Us

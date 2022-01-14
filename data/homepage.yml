@@ -21,7 +21,7 @@ about:
   enable : true
   image : "images/gai.jpeg"
   title : "Gai Bos of<span> Rotifest </span>"
-  description : "Receipes, cooking classes, prepared meals, & catering."
+  description : "Recipes, cooking classes, prepared meals, & catering."
   
 ################# Blog ######################
 blog:
@@ -33,24 +33,48 @@ blog:
 ################# food Menu ################
 pricing:
   enable : true
-  title : "Family style prepared meals <span>PRICE</span>"
-  description: "Serves a family of four"
-  subtitle : "Featured Meals"
+  title : "Family Style Prepared <span>Meals</span>"
+  description: "Serves a family of FOUR"
+  subtitle : "Featured Meals (other available upon request)"
   pricing_item:
-  - title: "Bake & tomatoes"
-    description: ""
-    price : "$ 40"
+  - title: "Spicy Rice & Beans"
+    description: "A healthy vegetarian option"
+    price : "$ 30"
 
-  - title: "Spicy rice & beans"
-    description: ""
-    price : "$ 20"
+  - title: "Curry Channa & Aloo (Potato)"
+    description: "A healthy vegetarian option"
+    price : "$ 30"
+ 
+  - title: "Bake & Tomatoes"
+    description: "Seasoned tomatoes served with fluffy fried-dough."
+    price : "$ 35"
 
-  - title: "Curried chicken with channa (chick peas) and roti"
-    description: ""
+  - title: "Curry Chicken with Channa and Roti"
+    description: "8 pieces of chicked seasoned in curry and servied with chick peas and roti"
+    price : "$ 45"
+
+  - title: "Curry Shrimp with Channa and Roti"
+    description: "Shrimp seasoned in curry and servied with chick peas and roti"
     price : "$ 50"
 
+  - title: "Doubles for the whole family"
+    description: "A staple of trini street food, two fried bara (flatbread), filled with curried channa (chickpeas) paired with pepper sauce and churney. Qty: 10"
+    price : "$ 25"
+
+  - title: "Alloo Pie for the family"
+    description: "Fried dough filled with mashed potatoes, flavored with garlic and cumin and paired with pepper sauce and chutney. Qty: 10"
+    price : "$ 25"
+
+  - title: "Cheese Pie for the faimily"
+    description: "Fried dough filled with cheese, flavored with garlic and cumin and paired with pepper sauce and chutney. Qty: 10"
+    price : "$ 30"
+
+  - title: "Saheena for the family"
+    description: "Spinach fritter made with flour, split peas, spices, and seasonings. Qty: 15"
+    price : "$ 25"
+
   - title: "Zeppoles for dessert"
-    description: "A sweeter version of poluri with powdered sugar sprinkled on top."
+    description: "A sweeter version of poluri with powdered sugar sprinkled on top. Qty: 25"
     price : "$ 10"
 
 ################### Subscription ################
@@ -58,7 +82,7 @@ subscription:
   enable : false
   bg_image : "images/subscribe-bg.jpg"
   title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
-  description : "We'll keep you informed on new receipes."
+  description : "We'll keep you informed on new recipes."
   #Mailchimp subscription configaration 
   form_action : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
   formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
